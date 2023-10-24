@@ -1,23 +1,16 @@
 # Day Calender
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My goal for this project was to better my understanding of javascript along with the new subject of APIs. This assignment is a mixture of many of our previous subjects in small doses along with new topics. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+This day calender stores all typed tasks in local storage, keeping tasks on document until close. Color changes on calender according to time of day.API provides date and running time to determine these things.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](./assets/images/DC.png)
     ```
+https://roro21007.github.io/day-calender/
 
 ## License
 
